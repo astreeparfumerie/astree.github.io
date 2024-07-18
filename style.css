@@ -6129,7 +6129,7 @@ Responsive Css
   }
 
   .mean-container .mean-bar {
-    top: -55px;
+    top: -50px;
     position: absolute;
   }
 
@@ -6718,7 +6718,7 @@ Responsive Css
   }
 
   .mean-container .mean-bar {
-    top: -55px;
+    top: -50px;
     position: absolute;
   }
 
@@ -7072,7 +7072,7 @@ Responsive Css
 
   .rn-header--withmenu .logo {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
   }
 
   .mainmenu-wrap.formobile-menu {
